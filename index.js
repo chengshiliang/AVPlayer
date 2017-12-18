@@ -3,10 +3,10 @@ import {
     NativeModules,
     NativeAppEventEmitter
 } from 'react-native';
-var AVAudioPlayerManager = NativeModules.AVAudioPlayerManager;
+var AVPlayer = NativeModules.AVPlayer;
 export default class AVPlayManager extends Component{
     static play(){
-        AVAudioPlayerManager.playAudio();
+        AVPlayer.playAudio();
     }
     render(){
         return(<AVPlayManager/>);
