@@ -1,0 +1,22 @@
+{
+  "name": "react-native-avplay",
+  "version": "1.0.0",
+  "description": "音频播放器工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengshiliang/AVPlayer.git"
+  },
+  "keywords": [
+    "react-native-avplay"
+  ],
+  "author": "chengshiliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengshiliang/AVPlayer/issues"
+  },
+  "homepage": "https://github.com/chengshiliang/AVPlayer#readme"
+}
